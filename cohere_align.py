@@ -1,5 +1,5 @@
 import embeddings
-from cupy_utils import *
+from cupy import *
 
 import argparse
 import collections
